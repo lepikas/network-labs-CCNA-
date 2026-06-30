@@ -8,3 +8,15 @@ Network Labs
 
 Лабораторная среда
 Cisco packet tracer
+
+-------------------------------------------------------------------------------------------------------------
+
+Network Labs
+
+This repository contains my networking lab exercises.
+
+I am currently taking the Free CCNA v1.1 (200-301) Complete Course (2026) by Jeremy's IT Lab on YouTube.
+
+This repository is used to document my learning progress. As I complete the course, I will regularly add my completed lab exercises.
+
+Lab Environment: Cisco Packet Tracer
